@@ -1,0 +1,15 @@
+scikit-learn
+ipykernel
+pandas
+numpy
+pandas
+matplotlib
+seaborn
+streamlit
+statsmodels
+plotly
+nbformat
+xgboost
+kneed
+catboost
+xgboost
